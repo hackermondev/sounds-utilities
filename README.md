@@ -16,5 +16,5 @@ Sound's Utilities is a moderation bot for [Sound's World](https://discord.gg/sou
   * Open sourcing Sound's Utilites allows for us to be transparent about what goes into the bot, and to help other developers learn how big bots generally work.
 * Do you provide support for self hosting?
   * No, we do not.
-* How do I report a bug with the bot?
+* How do I report a bug or request a feature?
   * Open a [GitHub issue](https://github.com/AsteroDev/sounds-utilities/issues/new).
