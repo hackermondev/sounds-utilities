@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "Axis (axis@axis.ovh), Vetlix (vetlixk@gmail.com)",
+  "license": "AGPL-3.0",
+  "private": true,
+  "scripts": {
+    "build": "tateru",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@sentry/node": "^6.8.0",
+    "detritus-client": "^0.15.3",
+    "eventemitter3": "^4.0.7",
+    "ioredis": "^4.27.6"
+  },
+  "devDependencies": {
+    "@types/ioredis": "^4.26.5",
+    "@types/node": "^16.0.1",
+    "prettier": "^2.3.2",
+    "tateru": "^0.0.9"
+  }
+}
